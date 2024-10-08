@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @thefloorcreates
 - 👀 I’m interested in animation, object shows, and development
 - 🌱 I’m currently learning how to make a video game
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me, I have no idea
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I am gender diverse
+- ⚡ Fun fact: I have a cat, and three cacti
 
 <!---
 thefloorcreates/thefloorcreates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
